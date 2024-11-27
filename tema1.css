@@ -1,0 +1,14 @@
+body{
+    background: #ACA9B4;
+}
+p{
+    letter-spacing: 1px;
+    line-height: 30px;
+    text-align: center;
+    font-family: "Funnel Sans", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-indent: 25px;
+    
+}
